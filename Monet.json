@@ -1,0 +1,127 @@
+{
+    "name": "Monet",
+    "description": "A cool theme based on One Color.",
+    "authors": [
+        {
+            "name": "Mr. Buru",
+            "id": "715443625580036128"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFDADA"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#FFDADA"
+        ],
+        "TEXT_LINK": [
+            "#FFDADA"
+        ],
+        "TEXT_DANGER": [
+            "#FFDADA"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#FFDADA"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#171717"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#171717"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#171717"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#171717"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FFDADA"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#171717"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#171717"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#171717"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#171717"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FFDADA"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#171717"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#171717"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#171717"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#FFDADA"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#171717"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#FFDADA",
+        "PRIMARY_500": "#FFDADA",
+        "PRIMARY_600": "#171717",
+        "PRIMARY_630": "#171717",
+        "PRIMARY_660": "#171717",
+        "PRIMARY_700": "#171717",
+        "PRIMARY_800": "#171717",
+        "BRAND_260": "#FFDADA",
+        "BRAND_360": "#FFDADA",
+        "BRAND_500": "#FFDADA",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#FFDADA",
+        "YELLOW_300": "#FFDADA",
+        "ORANGE_345": "#FFDADA",
+        "GREEN_345": "#FFDADA",
+        "GREEN_360": "#FFDADA",
+        "RED_560" : "#FFDADA",
+        "RED_400": "#FFDADA"
+    },
+    "spec": 2
+}
