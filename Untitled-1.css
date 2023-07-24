@@ -1,147 +1,120 @@
 {
-    "name": "Midnight-Sakura",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
-    "authors": [
-        {
+
+        "name": "Midnight-Sakura",
+        "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+        "authors": [ {
             "name": "Cheese Guru",
-            "id": "555686162153472000"
-        },
+                "id": "555686162153472000"
+        }
+
+        ,
 
         {
-            "name": "Mr. Buru",
+        "name": "Mr. Buru",
             "id": "1068030255455015013"
-          
-        }
+
+    }
+
     ],
     "semanticColors": {
-        "INPUT_PLACEHOLDER_TEXT": [
-            "#C9184A"
-        ],
-        "HEADER_PRIMARY": [
-            "#590D22"
-        ],
-        "MENTION_BACKGROUND": [
-            "#957261"
-        ],
-        "HEADER_SECONDARY": [
-            "#590D22"
-        ],
-        "TEXT_NORMAL": [
-            "#590D22"
-        ],
-        "TEXT_MUTED": [
-            "#800F2F"
-        ],
-        "TEXT_LINK": [
-            "#A4133C"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#C9184A"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#FF758F"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#FF8FA3"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#FFF0F3"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#FFB3C1"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#FFCCD5"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#FFCCD5"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#FFB3C1"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#FF8FA3"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#FFCCD5"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#FFCCD5"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#FFCCD5"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#FFCCD5"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#FF758F"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#FF758F"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#FF8FA3"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#FF8FA3"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#C9184A"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#C9184A"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#FF4D6D"
-        ],
-        "TEXT_DANGER": [
-            "#FF758F"
-        ],
-        "KEYBOARD": [
-            "#FFCCD5"
-        ],
-        "CHANNEL_ICON": [
-            "#FF4D6D"
-        ],
-        "CHAT_BACKGROUND": [
-            "#FFCCD5"
-        ]
+            "CHANNEL_TEXT_AREA_PLACEHOLDER": [ "#FFF0F3"
+            ],
+            "HEADER_PRIMARY": [ "#FFF0F3"
+            ],
+            "MENTION_BACKGROUND": [ "#957261"
+            ],
+            "HEADER_SECONDARY": [ "#FFF0F3"
+            ],
+            "TEXT_NORMAL": [ "#FFF0F3"
+            ],
+            "TEXT_MUTED": [ "#FFF0F3"
+            ],
+            "TEXT_LINK": [ "#A4133C"
+            ],
+            "INTERACTIVE_NORMAL": [ "#C9184A"
+            ],
+            "INTERACTIVE_HOVER": [ "#FF758F"
+            ],
+            "INTERACTIVE_ACTIVE": [ "#FFF0F3"
+            ],
+            "INTERACTIVE_MUTED": [ "#FFF0F3"
+            ],
+            "BACKGROUND_PRIMARY": [ "#FFB3C1"
+            ],
+            "BACKGROUND_SECONDARY": [ "#FFCCD5"
+            ],
+            "BACKGROUND_SECONDARY_ALT": [ "#FFCCD5"
+            ],
+            "BACKGROUND_TERTIARY": [ "#FFB3C1"
+            ],
+            "BACKGROUND_ACCENT": [ "#FF8FA3"
+            ],
+            "BACKGROUND_FLOATING": [ "#FFCCD5"
+            ],
+            "BACKGROUND_MOBILE_PRIMARY": [ "#FFCCD5"
+            ],
+            "BACKGROUND_MOBILE_SECONDARY": [ "#FFCCD5"
+            ],
+            "BACKGROUND_NESTED_FLOATING": [ "#FFCCD5"
+            ],
+
+            "BACKGROUND_MESSAGE_HOVER": [ "#FF758F"
+            ],
+            "BACKGROUND_MODIFIER_HOVER": [ "#FF758F"
+            ],
+            "BACKGROUND_MODIFIER_ACTIVE": [ "#FF8FA3"
+            ],
+            "BACKGROUND_MODIFIER_SELECTED": [ "#FF8FA3"
+            ],
+            "BACKGROUND_MODIFIER_ACCENT": [ "503E38"
+            ],
+            "SCROLLBAR_THIN_THUMB": [ "#26273b"
+            ],
+            "SCROLLBAR_THIN_TRACK": [ "transparent"
+            ],
+            "SCROLLBAR_AUTO_THUMB": [ "#C9184A"
+            ],
+            "SCROLLBAR_AUTO_TRACK": [ "#C9184A"
+            ],
+            "CHANNELTEXTAREA_BACKGROUND": [ "#372E29"
+            ],
+            "CHANNELS_DEFAULT": [ "#FF4D6D"
+            ],
+            "TEXT_DANGER": [ "#FF758F"
+            ],
+            "KEYBOARD": [ "#FFCCD5"
+            ],
+            "CHANNEL_ICON": [ "#FF4D6D"
+            ],
+            "CHAT_BACKGROUND": [ "#FFCCD5"
+            ]
     },
     "rawColors": {
         "PRIMARY_500": "#C9184A",
-        "PRIMARY_100": "#590D22",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#800F2F",
-        "PRIMARY_360": "#800F2F",
-        "PRIMARY_400": "#800F2F",
-        "PRIMARY_600": "#FFB3C1",
-        "PRIMARY_630": "#FF4D6D",
-        "PRIMARY_660": "#FF4D6D",
-        "PRIMARY_700": "#FFB3C1",
-        "PRIMARY_800": "#FFB3C1",
-        "BRAND_260": "#957261",
-        "BRAND_360": "#D0A996",
-        "BRAND_500": "#957261",
-        "BRAND_560": "#D0A996",
-        "YELLOW_300": "#957261",
-        "GREEN_600": "#EFDFD7",
-        "RED_400": "#9E8376",
-        "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#503E38"
+            "PRIMARY_100": "#FFF0F3",
+            "PRIMARY_200": "#F4EAE5",
+            "PRIMARY_300": "#800F2F",
+            "PRIMARY_360": "#800F2F",
+            "PRIMARY_400": "#800F2F",
+            "PRIMARY_600": "#FFB3C1",
+            "PRIMARY_630": "#FF4D6D",
+            "PRIMARY_660": "#FF4D6D",
+            "PRIMARY_700": "#FFB3C1",
+            "PRIMARY_800": "#FFB3C1",
+            "BRAND_260": "#FF8FA3",
+            "BRAND_360": "#FFB3C1",
+            "BRAND_500": "#FF8FA3",
+            "BRAND_560": "#FFB3C1",
+            "YELLOW_300": "#FF8FA3",
+            "GREEN_600": "#FFF0F3",
+            "RED_400": "#FF4D6D",
+            "WHITE_500": "#FFF0F3",
+            "GREEN_360": "#FFF0F3"
     },
+    "background": {
+    "blur": 2,
+    "url": "https://cdn.discordapp.com/attachments/1010403461071908916/1126352593501823046/Q8RiVMOa_4x_1.jpg",
+    "alpha": 0.48
+  },
     "spec": 2
 }
