@@ -109,7 +109,7 @@
             "GREEN_360": "#FFF0F3"
     },
     "background": {
-    "blur": 0.5,
+    "blur": 1.5,
     "url": "https://cdn.discordapp.com/attachments/1010403461071908916/1126352593501823046/Q8RiVMOa_4x_1.jpg",
     "alpha": 1.5
   },
