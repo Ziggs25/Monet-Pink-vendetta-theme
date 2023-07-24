@@ -5,9 +5,7 @@
         "authors": [ {
             "name": "Cheese Guru",
                 "id": "555686162153472000"
-        }
-
-        ,
+        },
 
         {
         "name": "Mr. Buru",
@@ -57,7 +55,6 @@
             ],
             "BACKGROUND_NESTED_FLOATING": [ "#FFCCD5"
             ],
-
             "BACKGROUND_MESSAGE_HOVER": [ "#FF758F"
             ],
             "BACKGROUND_MODIFIER_HOVER": [ "#FF758F"
@@ -66,7 +63,7 @@
             ],
             "BACKGROUND_MODIFIER_SELECTED": [ "#FF8FA3"
             ],
-            "BACKGROUND_MODIFIER_ACCENT": [ "503E38"
+            "BACKGROUND_MODIFIER_ACCENT": [ "#FFCCD5"
             ],
             "SCROLLBAR_THIN_THUMB": [ "#26273b"
             ],
@@ -78,13 +75,13 @@
             ],
             "CHANNELTEXTAREA_BACKGROUND": [ "#372E29"
             ],
-            "CHANNELS_DEFAULT": [ "#FF4D6D"
+            "CHANNELS_DEFAULT": [ "#FFF0F3"
             ],
             "TEXT_DANGER": [ "#FF758F"
             ],
             "KEYBOARD": [ "#FFCCD5"
             ],
-            "CHANNEL_ICON": [ "#FF4D6D"
+            "CHANNEL_ICON": [ "#FFF0F3"
             ],
             "CHAT_BACKGROUND": [ "#FFCCD5"
             ]
