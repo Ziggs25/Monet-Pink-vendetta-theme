@@ -132,7 +132,8 @@
         "GREEN_600": "#EFDFD7",
         "RED_400": "#BDA2A2",
         "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#BDA2A2"
+        "GREEN_360": "#BDA2A2",
+        "BLACK_500": "#231b2773"
     },
    "plus":{
    "version":"0",
