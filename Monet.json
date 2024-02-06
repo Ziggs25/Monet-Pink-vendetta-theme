@@ -1,127 +1,65 @@
 {
-    "name": "Monet",
-    "description": "A cool theme based on One Color.",
-    "authors": [
-        {
-            "name": "Mr. Buru",
-            "id": "715443625580036128"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#ffffff"
-        ],
-        "HEADER_SECONDARY": [
-            "#FFDADA"
-        ],
-        "TEXT_NORMAL": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
-            "#FFDADA"
-        ],
-        "TEXT_LINK": [
-            "#FFDADA"
-        ],
-        "TEXT_DANGER": [
-            "#FFDADA"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#ffffff"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#FFDADA"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#171717"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#171717"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#171717"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#171717"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#FFDADA"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#171717"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#171717"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#171717"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#171717"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#171717"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#171717"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#FFDADA"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#171717"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#171717"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
-        ],
-        "CHAT_BACKGROUND": [
-            "#171717"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#999999"
-        ],
-        "TEXT_LINK": [
-            "#FFDADA"
-        ],
-        "CHANNEL_ICON": [
-            "#ffffff"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#171717"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#FFDADA",
-        "PRIMARY_500": "#FFDADA",
-        "PRIMARY_600": "#171717",
-        "PRIMARY_630": "#171717",
-        "PRIMARY_660": "#171717",
-        "PRIMARY_700": "#171717",
-        "PRIMARY_800": "#171717",
-        "BRAND_260": "#FFDADA",
-        "BRAND_360": "#FFDADA",
-        "BRAND_500": "#FFDADA",
-        "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
-        "BLUE_345": "#FFDADA",
-        "YELLOW_300": "#FFDADA",
-        "ORANGE_345": "#FFDADA",
-        "GREEN_345": "#FFDADA",
-        "GREEN_360": "#FFDADA",
-        "RED_560" : "#FFDADA",
-        "RED_400": "#FFDADA"
-    },
-    "spec": 2
+  "name": "LilyPichu",
+  "description": "A theme based on @Melonturtle_ stream design",
+  "authors": [
+    {
+      "name": "Nyria",
+      "id": "265924886461939712"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#F8E1E5"],
+    "HEADER_SECONDARY": ["#E2C1C7"],
+    "TEXT_NORMAL": ["#F8E1E5"],
+    "TEXT_MUTED": ["#E2C1C7"],
+    "INTERACTIVE_NORMAL ": ["#FAB1BD"],
+    "INTERACTIVE_HOVER": ["#E2C1C7"],
+    "INTERACTIVE_ACTIVE": ["#E2C1C7"],
+    "INTERACTIVE_MUTED": ["#AD8C91"],
+    "CHANNELS_DEFAULT": ["#FAB1BD"],
+    "CHANNEL_ICON": ["#FAB1BD"],
+
+    "BACKGROUND_PRIMARY": ["#5E3640"],
+    "BACKGROUND_SECONDARY": ["#49292F"],
+    "BACKGROUND_SECONDARY_ALT": ["#101010"],
+    "BACKGROUND_TERTIARY": ["#220F14"],
+    "BACKGROUND_ACCENT": ["#C5536C"],
+    "BACKGROUND_FLOATING": ["#49292F"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#5E3640"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#49292F"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#1F151552"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#130C0C52"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#49292F"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#E2C1C7"],
+
+    "SCROLLBAR_THIN_THUMB": ["#49292F"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#49292F"],
+    "SCROLLBAR_AUTO_TRACK": ["#49292F"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#5E3640"],
+    "CHAT_BACKGROUND": ["#5E3640"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#3B1D24"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#F8E1E5"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#E2C1C7",
+    "PRIMARY_200": "#E2C1C7",
+    "PRIMARY_300": "#F8E1E5",
+    "PRIMARY_400": "#E2C1C7",
+    "PRIMARY_600": "#5E3640",
+    "PRIMARY_630": "#49292F",
+    "PRIMARY_660": "#220F14",
+    "PRIMARY_700": "#5E3640",
+    "PRIMARY_800": "#220F14",
+    "BRAND_260": "#FDC7C7",
+    "BRAND_360": "#C5536C",
+    "BRAND_500": "#C5536C",
+    "BRAND_560": "#C66376",
+
+    "PLUM_18": "#5E3640",
+    "PLUM_24": "#5E3640",
+    "PLUM_4": "#5E3640",
+    "PLUM_15": "#5E3640"
+  },
+  "spec": 2
 }
