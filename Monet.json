@@ -1,5 +1,5 @@
 {
-  "name": "LilyPichu",
+  "name": "LilyPichu v2",
   "description": "A theme based on @Melonturtle_ stream design",
   "authors": [
     {
@@ -21,8 +21,8 @@
 
     "BACKGROUND_PRIMARY": ["#5E3640"],
     "BACKGROUND_SECONDARY": ["#49292F"],
-    "BACKGROUND_SECONDARY_ALT": ["#101010"],
-    "BACKGROUND_TERTIARY": ["#220F14"],
+    "BACKGROUND_SECONDARY_ALT": ["#3B1D24"],
+    "BACKGROUND_TERTIARY": ["#101010"],
     "BACKGROUND_ACCENT": ["#C5536C"],
     "BACKGROUND_FLOATING": ["#49292F"],
     "BACKGROUND_MOBILE_PRIMARY": ["#5E3640"],
