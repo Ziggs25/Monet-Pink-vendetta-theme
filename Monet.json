@@ -61,5 +61,10 @@
     "PLUM_4": "#5E3640",
     "PLUM_15": "#5E3640"
   },
-  "spec": 2
+  "spec": 2,
+  "background": {
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/1010403461071908916/1203765113224695881/IXcqVpE3.jpg?ex=65d2489f&is=65bfd39f&hm=e72a345288c43525091a600af445425694f787a891788b7922890f945ebb5e3f&",
+    "alpha": 0.33
+  }
 }
